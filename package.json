@@ -1,0 +1,22 @@
+{
+  "name": "usingexpackage",
+  "version": "1.0.0",
+  "description": "Using dayjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohithYanapu/usingDayjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RohithYanapu/usingDayjs/issues"
+  },
+  "homepage": "https://github.com/RohithYanapu/usingDayjs#readme",
+  "dependencies": {
+    "dayjs": "^1.11.9"
+  }
+}
